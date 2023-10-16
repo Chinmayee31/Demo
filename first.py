@@ -1,5 +1,3 @@
 print("first line")
 print("second line")
 print("third line")
-print("data added to main")
-print("new changes")
